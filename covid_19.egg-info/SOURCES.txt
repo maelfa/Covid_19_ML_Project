@@ -1,0 +1,8 @@
+README.md
+setup.py
+c19mlp/__init__.py
+covid_19.egg-info/PKG-INFO
+covid_19.egg-info/SOURCES.txt
+covid_19.egg-info/dependency_links.txt
+covid_19.egg-info/requires.txt
+covid_19.egg-info/top_level.txt
